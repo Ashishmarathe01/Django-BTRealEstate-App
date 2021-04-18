@@ -1,0 +1,36 @@
+#header{
+    background: #10284e;
+    color : #fff;
+}
+
+#branding h1{
+    color :#fff;
+}
+.module h2, .module caption, .inline-group h2 {
+
+    background: #008000;
+    color: #fff;
+}
+h1 {
+
+    color : #996633
+    }
+
+a:link, a:visited {
+    color: #cc0066;
+    text-decoration: none;
+}
+
+.button.default, input[type=submit].default, .submit-row input.default {
+    float: right;
+    border: none;
+    font-weight: 400;
+    background: #FF00FF;
+}
+
+div.breadcrumbs {
+    background: #008000;
+
+    color: #fff;
+
+}
